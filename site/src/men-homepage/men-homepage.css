@@ -8,14 +8,6 @@ men-homepage {
   color: white;
 }
 
-men-homepage social-links {
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding: 1em;
-  font-size: 1.2em;
-}
-
 .men-homepage__container {
   display: flex;
   justify-content: center;
